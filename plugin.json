@@ -2,7 +2,7 @@
   "name": "plugin-sample-vite-svelte",
   "author": "frostime",
   "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "minAppVersion": "3.2.1",
   "backends": [
     "windows",
@@ -29,12 +29,13 @@
     "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
   },
   "readme": {
+    "default": "README.md",
     "en_US": "README.md",
     "zh_CN": "README_zh_CN.md"
   },
   "funding": {
     "custom": [
-      ""
+      "https://pipe.b3log.org/blogs/zxkmm/articles/2025/02/08/1738993480704"
     ]
   },
   "keywords": [
